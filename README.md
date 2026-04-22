@@ -11,7 +11,7 @@ adicionei os import do Palco e Concerto ao view.py
 completei o concerto_view
 
 # palcos.html
-adicionei o url que faltavo em palcos.html
+adicionei o url que faltava em palcos.html
 
 # dias.html
 criei "dias.html
